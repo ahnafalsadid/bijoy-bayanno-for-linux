@@ -14,7 +14,7 @@ This repository also automatically bundles and installs **essential Bangla fonts
 You do not need to download zip files or manually move layouts around. Open your terminal (**Ctrl + Alt + T**) and run this single command:
 
 ```bash
-curl -sSL [https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/install.sh](https://raw.githubusercontent.com/ahnafalsadid/bijoy-bayanno-for-linux/main/install.sh) | bash
+curl -sSL [https://raw.githubusercontent.com/ahnafalsadid/bijoy-bayanno-for-linux/main/install.sh](https://raw.githubusercontent.com/ahnafalsadid/bijoy-bayanno-for-linux/main/install.sh) | bash
 ```
 
 - Good bye
